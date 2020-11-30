@@ -47,7 +47,7 @@ while(True):
 			print(f"Match found: {match}")
 
 		else:
-			match = "Not found"
+			match = "You fraud"
 			print(f"Unknown: {match}")	
 
 		top_left = (face_location[3], face_location[0])
