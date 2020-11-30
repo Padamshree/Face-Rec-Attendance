@@ -7,7 +7,7 @@ eye_cascade = cv2.CascadeClassifier('cascades/data/haarcascade_eye.xml')
 
 cap = cv2.VideoCapture(0)
 
-name = input("Anya name:")
+name = input("Enter name:")
 
 while(True):
 
